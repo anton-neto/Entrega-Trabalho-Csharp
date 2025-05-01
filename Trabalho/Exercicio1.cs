@@ -10,9 +10,9 @@ class Exercicio1{
     bool temMaiscula = false;
     bool temNumero = false;
     bool temEspecial = false;
-    bool temTamanho = senha.Lenght >= 8;
+    bool temTamanho = senha.Length >= 8;
     
-    for (int i = 0; i < senha.length; i++){
+    for (int i = 0; i < senha.Length; i++){
         if(senha[i] >= 'A' && senha[i] <= 'Z'){
             temMaiscula = true;
         }else if(senha[i] >= '0' && senha[i] <= '9'){

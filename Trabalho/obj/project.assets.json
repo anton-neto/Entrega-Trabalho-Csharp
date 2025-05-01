@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\antonio\\Desktop\\Trabalho-Csharp\\Trabalho\\Trabalho.csproj",
+      "projectUniqueName": "C:\\Users\\antonio\\Desktop\\Entrega-Trabalho-Csharp\\Trabalho\\Trabalho.csproj",
       "projectName": "Trabalho",
-      "projectPath": "C:\\Users\\antonio\\Desktop\\Trabalho-Csharp\\Trabalho\\Trabalho.csproj",
+      "projectPath": "C:\\Users\\antonio\\Desktop\\Entrega-Trabalho-Csharp\\Trabalho\\Trabalho.csproj",
       "packagesPath": "C:\\Users\\antonio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\antonio\\Desktop\\Trabalho-Csharp\\Trabalho\\obj\\",
+      "outputPath": "C:\\Users\\antonio\\Desktop\\Entrega-Trabalho-Csharp\\Trabalho\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\antonio\\AppData\\Roaming\\NuGet\\NuGet.Config"
