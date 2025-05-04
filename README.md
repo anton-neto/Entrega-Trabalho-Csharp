@@ -5,6 +5,8 @@ Antonio Adair Cabreira Neto <br>
 Gustavo Torres Giroto <br>
 Victor Borges Anhaya <br>
 
+O arquivo da documentação detalhada das duas questões do Trabalho consta junto no git com o nome de Trabalho.docx
+
 ### Como Executar os Exercícios
 
 1. Navegue até o arquivo `Trabalho/Program.cs`
